@@ -26,7 +26,7 @@
       "react-app/jest"
     ]
   }, 
-  "homepage": "https://RyRyIT.github.io/User-directory",
+  "homepage": "https://RyRyIT.github/User-directory",
   "browserslist": {
     "production": [
       ">0.2%",
