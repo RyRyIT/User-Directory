@@ -4,14 +4,14 @@ This React based app Helps search and find User/Employees in a directory. The ap
 ## Screen Captures 
 
 ## Deploy 
-*Copy the code from this repository
-*Run npm install to install the dependencies needed 
-*Run npm start to run the applucation  
+* Copy the code from this repository
+* Run npm install to install the dependencies needed 
+* Run npm start to run the applucation  
 
 ## Technologies Used 
-*HTML 
-*Javascript 
-*CSS 
-*React 
+* HTML 
+* Javascript 
+* CSS 
+* React 
 
 ## Deployed app link 
